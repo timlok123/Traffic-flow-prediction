@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 
-img_fl=r"ImageRecog\3e6eb244-605d-4389-b66b-cc4c10a9b46e.jpg"
+img_fl=r"TrainImgs\68050b9e-43a1-48cc-802f-7d7232cb691e.jpg"
 class_file=r"ImageRecog\cars1.xml"
 
 img=cv2.imread(img_fl)
@@ -22,3 +22,6 @@ cv2.imshow("Name", img)
 cv2.waitKey()
 
 print("yes")
+
+
+#https://www.analyticsvidhya.com/blog/2020/04/vehicle-detection-opencv-python/
