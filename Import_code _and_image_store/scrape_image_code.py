@@ -3,6 +3,7 @@
 from bs4 import BeautifulSoup 
 import requests 
 import time
+import os
 
 # Get page content 
 url = "https://static.data.gov.hk/td/traffic-snapshot-images/code/Traffic_Camera_Locations_En.xml"
@@ -33,8 +34,10 @@ def scrape_picture_function(number):
     image_url = str(i[1])
     t = time.localtime()
     current_time = time.strftime("%Y_%m_%d_%H_%M_%S",t)
-    folder_name ="Import_code _and_image_store\ "
-    name_of_image = 'Index{count}_{place}_{time}.jpg'.format(count=count, place=str(i[0]),time=current_time)
+    folder_name ="Import_code _and_image_store\ "+str(i[0])
+    if not os.path.exists(folder_name):
+        os.makedirs(folder_name)
+    name_of_image = '{}\Index{count}_{place}_{time}.jpg'.format(folder_name,count=count, place=str(i[0]),time=current_time)
     try:
 
       with open(name_of_image, 'wb') as f:
