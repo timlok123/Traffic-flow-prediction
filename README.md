@@ -7,3 +7,8 @@ Hello Adrian
 --pip>=19.3
 
 pip install opencv-contrib-python
+
+
+pip install requests
+
+pip install beautifulsoup4
