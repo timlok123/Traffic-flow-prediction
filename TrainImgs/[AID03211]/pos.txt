@@ -1,0 +1,159 @@
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_19_12.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_21_13.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_23_14.jpg 1 146 32 22 29
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_25_15.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_27_16.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_29_17.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_31_18.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_33_19.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_35_19.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_37_20.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_39_21.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_41_22.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_43_24.jpg 1 66 1 11 15
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_45_25.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_47_26.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_49_26.jpg 1 82 25 28 36
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_51_27.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_53_28.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_55_29.jpg 1 41 177 74 44
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_57_23.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_59_24.jpg 1 39 63 46 69
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_01_25.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_03_26.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_05_27.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_07_28.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_09_29.jpg 1 154 37 26 26
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_11_30.jpg 1 117 87 30 35
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_13_31.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_15_32.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_17_33.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_19_34.jpg 1 69 0 13 16
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_21_35.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_23_37.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_25_38.jpg 1 76 18 16 21
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_27_39.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_29_40.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_31_41.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_33_42.jpg 1 123 41 27 26
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_35_43.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_37_44.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_39_45.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_41_45.jpg 2 127 48 28 27 72 5 15 17
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_43_47.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_45_48.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_47_49.jpg 1 28 11 26 39
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_49_50.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_51_51.jpg 3 77 15 27 31 104 20 17 17 139 30 18 21
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_53_52.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_55_53.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_57_54.jpg 1 108 25 22 22
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_59_55.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_01_56.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_03_58.jpg 2 86 0 22 18 37 5 13 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_05_59.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_08_00.jpg 2 53 22 31 44 78 19 17 17
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_10_01.jpg 2 19 117 82 107 108 141 48 60
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_12_02.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_14_03.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_16_04.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_18_05.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_20_06.jpg 1 74 9 29 34
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_22_08.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_24_09.jpg 2 32 21 41 76 164 39 23 22
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_26_10.jpg 2 19 26 38 77 114 6 17 10
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_28_11.jpg 2 70 42 27 28 65 1 20 24
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_30_12.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_32_13.jpg 6 68 2 14 9 114 2 28 27 90 36 17 22 105 164 49 56 181 112 57 51 201 93 44 27
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_33_56.jpg 3 22 46 56 110 204 128 47 38 156 47 28 21
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_35_58.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_37_59.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_40_00.jpg 1 135 60 30 23
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_42_01.jpg 1 138 63 30 20
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_44_02.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_46_03.jpg 1 16 62 60 126
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_48_05.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_50_06.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_52_07.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_54_08.jpg 2 104 61 25 24 18 47 39 105
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_56_09.jpg 1 163 181 65 41
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_58_10.jpg 4 126 102 36 32 66 63 21 28 91 43 23 25 90 6 19 15
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_00_11.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_02_12.jpg 2 84 28 32 37 175 72 39 29
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_04_13.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_06_14.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_08_15.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_10_16.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_12_17.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_14_18.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_16_19.jpg 1 125 45 47 48
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_18_20.jpg 4 21 43 40 59 83 30 16 15 84 2 18 14 111 4 17 17
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_20_21.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_22_22.jpg 1 115 8 17 13
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_24_24.jpg 1 114 7 17 15
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_26_24.jpg 2 65 64 22 24 109 79 34 33
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_28_26.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_30_27.jpg 1 89 8 21 23
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_32_28.jpg 1 261 134 57 49
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_34_29.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_36_30.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_38_31.jpg 2 121 4 18 17 67 1 12 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_40_33.jpg 1 107 2 15 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_42_34.jpg 1 106 3 16 12
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_44_34.jpg 3 69 4 25 27 100 12 21 18 158 153 54 55
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_46_35.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_48_37.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_50_38.jpg 1 177 170 91 49
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_52_39.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_54_40.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_56_41.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_58_42.jpg 1 80 28 29 26
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_00_43.jpg 3 89 37 19 22 93 5 26 24 126 18 18 18
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_02_44.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_04_44.jpg 1 140 53 30 23
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_06_46.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_08_47.jpg 1 253 130 56 47
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_10_48.jpg 2 72 87 29 31 123 100 66 63
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_12_49.jpg 1 68 3 16 16
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_14_50.jpg 2 192 112 52 50 266 104 26 27
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_16_51.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_18_53.jpg 3 78 15 24 30 110 61 25 27 77 1 12 12
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_20_54.jpg 2 96 2 19 16 202 85 40 29
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_22_55.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_24_56.jpg 2 117 11 16 14 88 39 26 26
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_26_57.jpg 1 249 129 56 45
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_28_58.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_30_59.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_33_00.jpg 1 110 36 27 24
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_35_01.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_37_01.jpg 2 189 82 39 32 88 7 14 7
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_39_02.jpg 1 131 55 25 27
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_41_03.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_43_04.jpg 1 90 122 36 47
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_45_06.jpg 1 105 23 20 16
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_47_07.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_49_09.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_51_10.jpg 1 160 52 29 23
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_53_11.jpg 1 120 41 28 23
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_55_12.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_57_13.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_00_44.jpg 3 146 128 85 90 217 140 48 43 113 16 17 14
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_02_47.jpg 2 83 36 20 21 132 18 18 18
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_04_48.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_06_49.jpg 3 89 37 18 15 100 18 19 17 271 159 47 51
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_08_50.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_10_51.jpg 1 172 59 33 29
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_12_52.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_14_53.jpg 3 69 6 27 33 42 29 19 19 114 8 15 13
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_16_54.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_18_55.jpg 1 111 83 35 34
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_20_56.jpg 1 24 17 37 69
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_22_57.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_24_58.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_26_59.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_29_00.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_31_00.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_33_01.jpg 1 158 154 56 56
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_35_02.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_37_03.jpg 1 109 0 10 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_38_33.jpg 1 110 78 37 41

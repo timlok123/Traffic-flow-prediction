@@ -1,0 +1,159 @@
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_19_13.jpg 2 201 112 15 25 215 76 7 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_21_14.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_23_14.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_25_15.jpg 1 217 66 8 13
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_27_16.jpg 2 60 105 56 53 166 64 19 17
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_29_17.jpg 2 195 70 6 10 203 76 10 15
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_31_18.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_33_19.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_35_20.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_37_20.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_39_22.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_41_23.jpg 2 213 93 7 11 155 162 53 49
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_43_24.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_45_25.jpg 1 126 81 31 29
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_47_26.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_49_27.jpg 1 212 80 8 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_51_27.jpg 1 215 79 8 8
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_53_28.jpg 1 202 120 10 14
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_55_29.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_57_23.jpg 1 196 77 16 25
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_59_24.jpg 2 182 140 23 27 207 70 11 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_01_25.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_03_26.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_05_27.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_07_28.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_09_29.jpg 1 209 72 7 8
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_11_30.jpg 5 149 68 21 22 145 96 14 9 188 82 21 27 200 117 14 15 212 84 11 13
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_13_31.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_15_32.jpg 3 161 66 18 16 157 92 15 14 17 157 33 21
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_17_33.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_19_34.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_21_35.jpg 1 206 89 15 23
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_23_37.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_25_38.jpg 1 130 121 60 67
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_27_39.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_29_40.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_31_41.jpg 4 209 105 11 10 191 93 16 11 212 88 10 7 216 74 9 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_33_42.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_35_43.jpg 7 183 136 25 32 110 129 21 16 116 109 16 10 168 89 15 13 182 82 12 12 196 67 7 9 216 63 7 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_37_44.jpg 2 141 156 32 33 51 147 37 21
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_39_45.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_41_46.jpg 2 115 87 43 32 120 126 24 17
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_43_47.jpg 1 197 84 15 19
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_45_48.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_47_49.jpg 1 150 89 23 24
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_49_50.jpg 2 179 60 19 18 205 83 8 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_51_51.jpg 3 168 70 21 20 105 117 22 13 139 164 36 27
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_53_52.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_55_53.jpg 3 160 98 16 11 189 73 8 14 196 98 12 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_57_54.jpg 1 158 67 18 18
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_59_56.jpg 9 190 81 11 9 169 78 11 7 179 90 11 11 161 84 13 14 145 94 12 8 145 102 16 13 189 105 12 10 203 116 14 10 55 147 67 51
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_01_57.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_03_58.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_05_59.jpg 2 205 105 12 13 158 179 36 45
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_08_00.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_10_01.jpg 1 198 83 13 16
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_12_02.jpg 3 167 92 14 13 207 96 13 11 191 77 10 7
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_14_03.jpg 1 117 141 22 23
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_16_04.jpg 8 26 155 32 26 97 144 27 19 95 116 26 19 168 96 12 13 147 89 12 11 159 84 13 9 183 84 10 8 195 72 8 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_18_05.jpg 1 46 102 30 25
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_20_07.jpg 5 188 140 23 24 35 147 35 22 124 103 15 13 169 79 13 17 198 69 7 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_22_08.jpg 2 169 172 36 44 196 97 8 15
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_24_09.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_26_10.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_28_11.jpg 4 131 125 20 17 56 171 35 24 59 141 26 25 184 79 10 10
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_30_12.jpg 1 129 112 20 15
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_32_13.jpg 3 180 145 26 35 177 88 11 9 152 88 15 12
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_33_57.jpg 12 184 68 10 8 173 65 9 8 194 74 9 9 187 81 9 8 204 85 9 7 211 97 9 11 178 88 9 11 158 90 13 7 157 104 14 12 119 123 20 15 104 146 28 20 23 193 40 21
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_35_58.jpg 5 181 113 16 17 213 92 6 8 208 72 10 10 48 174 31 25 183 61 9 6
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_37_59.jpg 2 164 86 13 12 205 102 12 8
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_40_00.jpg 2 125 97 27 21 64 141 27 17
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_42_01.jpg 2 158 195 36 26 210 69 10 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_44_03.jpg 4 145 140 37 35 201 92 9 12 208 72 9 13 217 74 11 7
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_46_04.jpg 1 193 130 20 20
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_48_05.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_50_06.jpg 6 187 111 14 14 12 181 44 29 100 192 52 24 167 95 11 14 193 72 9 9 214 81 12 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_52_07.jpg 11 177 117 19 21 203 103 14 15 214 88 10 10 176 91 12 10 146 113 18 11 58 137 48 43 46 197 34 19 170 84 8 10 166 79 8 6 182 74 9 9 194 74 9 6
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_54_08.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_56_09.jpg 6 10 157 44 39 166 132 27 23 115 136 20 16 146 109 20 16 118 108 16 12 192 89 18 19
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_58_10.jpg 1 55 144 34 20
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_00_11.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_02_12.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_04_14.jpg 5 108 137 29 20 36 178 37 29 97 122 20 14 180 87 10 8 168 81 10 8
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_06_14.jpg 3 0 155 29 36 169 169 33 35 193 68 13 14
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_08_15.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_10_16.jpg 2 176 86 11 16 192 99 12 15
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_12_18.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_14_18.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_16_19.jpg 5 105 116 29 25 76 171 18 20 17 160 27 22 215 78 7 7 179 86 14 10
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_18_20.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_20_22.jpg 1 195 95 11 14
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_22_23.jpg 7 211 93 8 14 193 103 11 12 185 73 13 16 159 93 20 16 113 125 19 17 3 185 25 23 22 193 27 25
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_24_24.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_26_25.jpg 2 162 134 23 21 210 94 6 13
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_28_26.jpg 6 145 110 15 13 189 138 22 20 83 151 31 24 180 89 10 8 188 79 7 9 157 89 9 7
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_30_27.jpg 2 169 126 20 24 210 92 10 12
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_32_28.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_34_29.jpg 4 4 180 49 35 177 88 11 11 183 74 10 9 211 95 11 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_36_31.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_38_32.jpg 4 203 109 15 17 176 151 33 41 174 90 11 13 207 79 9 7
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_40_33.jpg 5 157 113 34 38 196 131 18 16 148 110 17 16 158 92 13 11 191 71 13 16
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_42_34.jpg 5 99 143 28 19 64 134 27 19 194 126 16 19 156 95 13 14 192 78 7 8
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_44_35.jpg 4 145 86 18 19 170 94 11 9 52 143 29 23 42 165 40 31
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_46_36.jpg 4 145 85 17 22 169 93 12 10 52 143 25 21 45 164 37 32
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_48_37.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_50_38.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_52_39.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_54_40.jpg 8 22 189 42 34 141 116 16 14 86 129 22 15 163 98 12 14 164 81 9 9 179 91 7 6 181 82 10 8 177 73 8 8
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_56_41.jpg 2 207 78 7 6 183 83 9 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_58_42.jpg 5 112 119 22 16 21 191 36 24 194 96 14 11 207 97 13 11 168 89 12 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_00_43.jpg 1 78 173 73 38
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_02_44.jpg 1 153 156 53 64
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_04_45.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_06_46.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_08_47.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_10_48.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_12_49.jpg 1 202 112 14 16
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_14_50.jpg 1 206 100 10 16
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_16_51.jpg 4 87 148 33 25 153 99 14 9 144 114 17 17 185 83 8 8
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_18_53.jpg 1 171 128 23 19
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_20_54.jpg 3 207 96 13 15 136 98 12 15 191 75 11 10
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_22_55.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_24_56.jpg 3 62 127 40 27 143 95 18 11 214 85 7 7
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_26_57.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_28_58.jpg 3 202 117 13 17 217 79 7 10 207 79 7 10
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_30_59.jpg 2 79 181 73 30 138 125 20 16
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_33_00.jpg 5 134 119 20 15 65 166 36 25 135 102 13 7 160 90 11 9 178 79 15 19
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_35_01.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_37_02.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_39_02.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_41_03.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_43_05.jpg 4 126 119 23 16 166 94 14 12 186 82 6 10 171 79 11 8
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_45_07.jpg 4 127 119 22 18 166 95 15 9 184 83 8 10 171 78 9 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_47_08.jpg 3 141 120 22 13 147 102 17 14 183 80 12 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_49_09.jpg 2 203 85 9 9 213 85 10 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_51_10.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_53_11.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_55_12.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_57_13.jpg 1 205 113 13 16
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_00_44.jpg 3 201 89 9 9 124 83 33 28 164 87 13 10
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_02_47.jpg 5 179 154 26 36 135 163 31 36 70 138 31 16 134 103 22 15 180 79 12 9
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_04_48.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_06_50.jpg 2 86 139 22 20 156 101 16 15
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_08_51.jpg 3 129 122 22 20 206 79 8 8 218 75 6 8
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_10_51.jpg 2 169 123 25 25 214 75 9 7
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_12_52.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_14_53.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_16_55.jpg 9 152 138 27 33 118 133 23 16 14 161 29 22 212 92 9 10 151 108 16 15 183 83 8 10 205 84 9 8 217 75 5 4 196 73 8 7
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_18_55.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_20_56.jpg 3 194 131 18 18 209 92 10 12 215 74 6 10
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_22_57.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_24_58.jpg 5 60 164 17 16 92 148 26 24 134 116 16 15 164 92 11 12 190 78 10 7
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_26_59.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_29_00.jpg 3 39 148 25 22 151 93 11 10 191 78 7 7
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_31_01.jpg 3 46 147 25 18 191 100 15 13 176 81 11 11
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_33_01.jpg 2 163 67 17 17 208 68 8 10
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_35_02.jpg 0
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_37_04.jpg 7 37 153 33 27 104 133 18 20 167 77 8 10 169 88 9 8 171 94 10 10 193 73 7 11 210 71 7 6
+C:\Stuff\HKU\Git\CarsML\Traffic-flow-prediction\TrainImgs\[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_38_33.jpg 1 205 80 10 10

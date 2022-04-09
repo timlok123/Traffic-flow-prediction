@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 
 
-img_fl=r"TrainImgs\68050b9e-43a1-48cc-802f-7d7232cb691e.jpg"
-class_file=r"ImageRecog\cars1.xml"
+img_fl=r"TrainImgs\Previous train image\aa688a20-15a7-4677-b6af-e99fbf8acef0.jpg"
+class_file=r"TrainImgs\cascade\cascade.xml"
 
 img=cv2.imread(img_fl)
 

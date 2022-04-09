@@ -1,0 +1,383 @@
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_19_12.jpg 5 8 118 80 64 280 39 20 25 188 10 33 35 283 1 26 27 232 111 48 48
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_23_14.jpg 3 231 109 42 49 180 27 29 27 223 7 17 20
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_27_15.jpg 6 201 158 67 64 15 32 133 131 154 37 31 27 188 21 28 26 296 2 14 15 218 0 18 20
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_31_17.jpg 6 128 39 68 69 164 130 64 65 249 87 37 43 223 20 24 23 289 7 18 18 246 2 22 13
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_37_20.jpg 3 203 62 35 36 202 168 56 56 46 26 114 113
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_41_22.jpg 2 270 39 32 36 294 1 14 16
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_43_23.jpg 2 278 4 20 32 130 65 21 24
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_47_25.jpg 2 243 30 25 26 284 6 20 21
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_49_26.jpg 1 282 26 22 21
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_53_28.jpg 2 226 17 19 23 282 4 30 32
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_57_22.jpg 1 280 22 23 21
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_07_59_23.jpg 3 284 26 20 23 267 73 18 28 291 7 18 13
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_05_27.jpg 6 0 129 66 52 205 147 59 68 164 38 30 28 204 13 20 20 249 3 9 12 288 12 17 16
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_07_27.jpg 1 241 27 55 93
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_13_30.jpg 1 129 58 42 37
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_15_31.jpg 5 15 110 71 57 195 22 20 19 274 30 23 27 215 36 24 19 220 1 23 18
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_17_32.jpg 5 238 89 43 53 282 27 21 24 114 11 77 80 185 0 41 37 1 115 47 80
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_19_33.jpg 1 204 96 80 112
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_21_34.jpg 2 233 15 17 16 282 19 18 18
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_23_36.jpg 2 233 14 21 18 283 18 15 20
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_25_37.jpg 2 256 77 36 39 287 7 17 18
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_27_38.jpg 5 97 67 49 35 12 130 68 45 250 73 29 39 186 25 27 23 213 10 15 15
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_31_40.jpg 1 262 44 29 39
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_33_41.jpg 2 105 50 55 47 285 7 16 21
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_35_42.jpg 4 2 160 72 60 252 76 37 45 197 33 28 30 240 11 16 20
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_39_44.jpg 2 83 89 46 35 163 9 53 46
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_41_45.jpg 6 108 81 59 53 229 104 50 63 265 53 28 37 226 7 47 65 284 33 12 17 288 9 19 18
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_43_46.jpg 2 223 8 50 65 250 79 32 45
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_45_47.jpg 2 211 152 52 57 277 20 21 20
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_47_48.jpg 1 287 7 20 18
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_51_50.jpg 1 205 103 70 100
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_53_51.jpg 3 151 44 34 30 218 6 20 17 270 42 24 19
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_57_54.jpg 4 186 182 74 40 274 39 23 25 283 19 16 18 278 3 16 12
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_08_59_55.jpg 1 278 3 16 12
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_03_57.jpg 5 264 55 26 28 202 16 24 20 221 10 16 15 231 3 14 12 288 13 20 17
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_05_58.jpg 7 2 137 45 61 123 16 71 65 198 22 18 20 218 11 14 14 260 54 24 39 182 169 70 54 287 15 18 21
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_07_59.jpg 6 61 78 60 54 127 16 70 62 199 47 15 24 198 15 23 22 239 3 16 9 1 138 34 62
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_10_00.jpg 2 268 37 25 27 285 1 12 13
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_12_01.jpg 2 276 31 19 24 278 7 20 18
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_14_02.jpg 1 238 98 41 53
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_20_06.jpg 5 1 95 57 106 80 109 63 56 131 23 51 59 193 40 28 25 180 28 24 22
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_22_07.jpg 1 285 4 23 31
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_26_09.jpg 4 207 163 54 60 278 28 25 24 279 0 16 11 0 139 54 72
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_28_10.jpg 2 44 125 65 54 263 56 23 25
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_30_11.jpg 1 193 44 33 23
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_32_12.jpg 3 151 52 16 22 226 114 45 51 290 2 20 14
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_35_57.jpg 1 249 47 45 83
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_37_58.jpg 3 270 43 27 28 280 17 11 13 244 6 21 14
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_42_00.jpg 4 120 72 39 32 234 99 39 42 171 160 92 62 253 1 12 14
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_44_01.jpg 3 1 128 65 53 165 38 26 28 281 22 19 22
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_46_03.jpg 2 181 32 26 17 2 138 44 66
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_48_04.jpg 4 126 68 37 28 279 29 20 21 209 14 23 16 158 35 12 19
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_50_05.jpg 5 165 53 34 25 56 98 62 34 290 11 13 14 221 8 15 13 296 2 12 10
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_52_06.jpg 5 143 26 48 42 193 20 18 21 252 81 30 39 289 8 14 12 238 1 14 8
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_09_56_08.jpg 4 269 15 37 47 219 7 14 15 197 24 10 16 189 194 54 27
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_08_15.jpg 4 185 51 28 27 0 118 27 77 206 0 29 28 246 4 14 18
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_12_17.jpg 9 9 75 100 88 128 101 48 43 131 61 39 25 240 88 47 56 168 12 35 39 281 30 18 23 290 1 19 21 203 17 17 13 222 1 27 22
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_14_18.jpg 3 175 26 25 18 206 15 18 16 231 2 46 68
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_16_19.jpg 4 110 33 62 58 179 12 37 31 232 117 41 52 286 7 15 17
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_18_19.jpg 9 2 106 61 91 92 42 67 60 256 72 32 47 281 33 20 22 245 9 33 39 181 24 24 21 206 9 18 21 219 4 17 18 296 5 10 13
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_20_20.jpg 3 2 100 23 98 243 79 35 59 239 1 21 22
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_22_22.jpg 4 148 47 34 26 184 25 27 19 234 3 13 9 1 189 38 36
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_26_24.jpg 5 237 58 54 89 197 10 25 28 273 7 31 33 235 7 17 17 6 72 197 148
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_30_26.jpg 3 33 100 101 103 145 39 57 62 255 44 42 56
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_34_28.jpg 6 2 141 45 63 108 70 44 31 147 82 21 25 172 7 44 44 276 36 21 26 274 4 17 11
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_36_30.jpg 6 3 84 100 87 102 101 58 52 137 23 58 52 245 80 42 36 210 8 19 21 230 2 11 14
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_40_32.jpg 7 113 37 57 57 268 47 29 29 165 34 31 26 195 17 22 17 157 192 91 30 279 3 16 16 227 1 23 15
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_42_33.jpg 7 115 37 57 51 180 24 25 29 213 146 54 73 288 21 17 19 209 14 21 14 212 25 23 15 226 4 17 14
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_50_37.jpg 7 5 166 83 55 124 80 43 37 146 24 51 42 199 192 56 33 278 24 21 23 208 1 37 22 254 3 13 13
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_52_38.jpg 7 2 104 82 98 72 71 59 45 130 96 21 33 178 54 31 32 271 44 20 33 155 4 60 54 217 9 21 22
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_10_56_40.jpg 5 48 103 65 42 143 22 54 44 217 19 17 20 288 9 13 18 215 5 24 15
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_00_42.jpg 4 89 28 112 118 162 31 91 117 275 6 30 38 210 14 21 15
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_02_43.jpg 11 0 145 42 56 73 83 53 39 104 56 45 27 158 37 32 25 254 69 36 30 274 23 22 20 187 7 34 32 219 7 16 14 239 16 12 17 290 3 16 15 244 3 12 13
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_06_45.jpg 3 189 37 32 31 286 17 19 23 223 2 22 14
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_10_47.jpg 7 65 63 71 65 242 60 52 58 192 39 31 29 225 17 21 19 248 20 27 30 153 1 61 63 245 1 17 15
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_14_49.jpg 9 131 120 59 47 81 102 68 58 27 63 96 89 122 62 37 29 158 40 34 24 211 20 23 20 265 41 23 24 283 14 21 18 197 12 23 22
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_16_50.jpg 4 104 72 46 34 183 97 46 38 260 29 38 48 287 4 17 16
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_18_51.jpg 6 3 99 82 100 134 47 41 37 224 73 42 43 253 23 20 20 287 5 18 15 207 0 38 26
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_20_54.jpg 5 40 108 57 49 229 124 41 49 166 37 27 25 197 16 18 16 280 24 20 16
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_22_54.jpg 6 141 67 46 43 221 97 41 44 185 11 30 32 216 23 28 22 283 6 15 17 234 3 13 11
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_24_55.jpg 8 2 36 105 161 125 56 36 34 158 57 34 28 259 62 33 32 194 14 36 41 169 24 29 26 215 5 16 15 230 2 16 17
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_26_57.jpg 12 0 115 40 93 33 83 59 41 63 99 59 38 129 100 53 43 241 65 41 41 168 170 90 55 132 56 35 27 193 49 21 20 272 38 24 24 279 1 20 29 183 20 33 25 222 9 13 13
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_28_57.jpg 9 1 84 91 88 111 44 55 50 164 39 27 24 208 109 44 36 103 182 70 38 191 18 25 28 202 10 22 21 292 6 17 18 220 6 21 12
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_39_02.jpg 7 130 89 70 53 234 16 65 75 151 44 39 25 3 172 83 51 195 18 26 23 217 7 18 16 291 0 17 18
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_41_02.jpg 6 35 74 92 74 139 56 36 30 171 33 30 23 190 25 26 14 227 8 14 11 281 9 26 13
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_47_07.jpg 9 77 85 66 47 161 59 40 32 204 83 44 40 166 149 70 66 264 53 34 45 237 41 29 27 212 21 25 24 283 17 21 20 242 1 26 20
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_49_08.jpg 8 150 73 40 40 207 29 28 24 225 58 26 25 262 70 30 33 263 17 13 15 287 15 16 15 249 3 16 8 277 3 12 11
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_53_10.jpg 9 1 120 62 54 53 171 87 48 213 92 58 52 167 65 40 33 91 44 65 58 172 33 32 24 207 10 28 20 234 12 26 16 276 29 25 17
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_11_57_12.jpg 6 14 81 90 84 141 47 39 30 195 32 33 31 195 2 33 29 261 0 28 27 294 2 13 16
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_00_43.jpg 9 1 137 92 84 149 34 102 130 111 66 38 31 132 78 30 35 164 38 33 22 207 16 20 13 279 21 23 21 291 3 11 12 256 2 15 14
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_02_47.jpg 8 144 67 47 45 1 185 72 40 212 64 36 29 258 69 31 34 278 41 23 19 244 31 21 19 206 39 21 16 236 11 18 20
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_06_49.jpg 5 140 48 40 27 275 13 28 19 220 17 20 19 196 21 20 15 211 8 17 16
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_08_50.jpg 5 86 105 57 49 268 35 23 32 237 10 21 14 289 14 14 17 94 170 87 53
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_10_51.jpg 8 2 57 125 131 193 49 27 26 129 5 74 76 262 6 16 19 290 8 16 17 214 20 27 33 236 4 17 19 198 14 19 17
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_12_52.jpg 9 119 54 40 34 155 37 50 53 187 55 64 62 257 76 33 37 279 37 16 26 203 28 26 18 288 14 15 20 266 3 21 18 245 2 17 19
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_14_53.jpg 9 38 105 63 44 186 186 64 38 141 40 36 31 197 29 20 21 189 11 27 25 271 40 24 31 290 9 15 17 255 3 28 29 224 12 18 16
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_16_54.jpg 6 46 81 61 52 152 46 35 28 177 22 29 31 199 17 23 21 259 64 29 35 277 22 22 26
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_18_55.jpg 9 2 140 28 53 82 89 50 34 119 93 54 47 246 99 43 35 129 57 40 30 194 45 36 25 284 12 18 24 169 12 43 39 221 11 32 32
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_20_55.jpg 6 68 83 57 40 2 129 46 72 169 28 27 29 268 36 24 21 203 1 34 27 282 2 18 11
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_24_57.jpg 11 69 119 69 69 85 83 51 32 143 81 43 32 206 74 38 33 247 80 45 40 182 29 37 43 218 25 24 23 249 4 14 15 219 7 17 13 290 5 18 17 182 28 24 16
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_26_58.jpg 5 181 16 31 23 234 10 16 17 249 24 25 23 292 6 15 15 250 3 15 11
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_31_00.jpg 11 42 138 81 68 96 61 49 44 154 68 43 37 155 134 57 57 205 182 30 38 251 73 34 35 277 44 17 29 200 36 30 32 211 12 21 17 264 12 17 18 288 16 17 14
+[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_09_12_37_02.jpg 6 1 135 64 57 181 25 71 103 248 79 40 51 270 30 27 24 294 5 13 12 228 3 21 13
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_19_12.jpg 4 182 81 59 71 147 21 82 65 228 44 37 30 237 66 32 21
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_23_14.jpg 3 176 107 47 35 259 76 34 33 276 50 24 18
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_25_15.jpg 4 245 64 10 23 273 72 26 24 294 49 20 25 293 34 23 17
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_27_16.jpg 4 71 36 104 87 174 76 40 22 182 138 51 46 255 53 25 22
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_29_16.jpg 4 63 164 72 53 216 12 53 51 287 36 24 24 302 26 15 11
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_31_17.jpg 2 251 70 30 18 252 18 32 32
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_33_18.jpg 1 194 88 42 30
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_35_19.jpg 2 236 110 32 39 289 46 10 15
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_37_20.jpg 3 15 74 99 74 255 20 32 25 293 17 25 36
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_39_21.jpg 3 136 124 54 57 275 48 23 17 284 67 25 20
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_41_22.jpg 2 98 96 48 36 282 23 16 15
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_47_25.jpg 1 157 110 56 51
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_49_26.jpg 3 98 87 52 28 252 58 29 22 289 27 20 18
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_51_27.jpg 3 225 65 35 31 276 33 19 16 298 39 17 18
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_53_28.jpg 3 227 62 30 30 272 31 22 20 295 38 21 16
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_55_29.jpg 3 225 62 36 31 275 34 20 17 296 41 18 16
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_07_57_23.jpg 2 245 105 27 30 303 12 13 17
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_03_26.jpg 1 283 44 23 21
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_07_28.jpg 1 207 84 36 34
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_11_29.jpg 3 166 108 50 60 239 76 46 54 286 47 31 28
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_13_30.jpg 3 163 106 53 57 241 77 37 51 288 49 29 32
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_19_34.jpg 16 0 135 44 50 74 125 58 45 133 96 43 28 195 92 40 30 283 44 19 21 287 31 14 15 299 20 17 19 290 12 22 18 302 39 14 11 258 54 23 21 243 44 26 18 215 40 25 13 220 53 33 19 234 70 25 21 175 46 52 48 227 104 45 39
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_21_35.jpg 18 267 6 43 30 244 31 24 21 262 40 16 14 271 49 27 21 292 42 19 14 297 52 22 17 283 68 24 25 250 56 29 27 232 80 35 25 218 50 29 22 195 65 28 23 134 28 78 60 154 80 38 27 183 101 45 31 233 106 41 27 71 115 65 55 103 160 78 61 180 185 59 35
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_23_36.jpg 17 294 17 16 13 293 29 16 12 267 19 19 17 265 52 28 18 289 41 21 20 234 32 41 29 281 64 24 22 244 67 20 17 208 61 24 15 172 73 33 26 238 72 54 67 183 72 58 56 57 74 119 86 60 37 104 90 109 111 96 89 200 138 57 58 0 175 56 48
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_25_38.jpg 13 266 39 37 27 217 50 29 26 249 64 27 17 288 67 21 20 269 78 27 29 214 79 30 25 180 65 41 30 91 26 93 80 93 110 62 33 119 140 58 47 213 110 50 26 133 123 113 96 1 127 80 96
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_31_40.jpg 17 291 20 24 32 272 32 18 18 255 40 23 16 241 48 24 19 238 14 44 35 270 49 20 18 288 53 22 23 273 74 25 26 232 88 44 35 197 44 45 36 135 40 66 48 176 105 44 30 206 135 51 47 132 93 43 34 41 95 65 42 3 138 161 84 1 185 43 31
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_33_41.jpg 22 279 2 28 30 245 32 32 28 303 26 16 20 280 28 22 15 290 42 19 18 268 50 28 18 293 52 23 22 280 59 26 30 262 80 27 26 242 64 23 24 233 71 14 20 213 57 26 23 161 57 53 35 169 74 61 55 233 106 40 35 192 160 58 50 135 136 60 46 102 105 56 47 92 28 95 82 23 148 73 64 2 115 29 88 83 200 58 21
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_35_42.jpg 20 63 123 66 58 0 68 61 130 103 43 73 62 127 59 80 63 165 115 51 40 227 116 41 45 212 77 29 36 202 57 29 27 299 16 13 15 289 30 13 16 301 34 17 16 285 24 16 10 221 25 15 11 271 38 13 14 286 44 18 14 288 65 20 20 260 83 29 25 236 48 43 41 230 28 52 36 85 191 75 31
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_45_48.jpg 18 210 10 50 43 215 37 34 30 231 49 45 42 276 46 27 24 304 38 12 14 273 12 33 21 300 54 17 20 282 61 27 23 264 82 34 33 257 25 20 17 244 107 30 31 209 90 32 33 168 70 42 30 147 34 65 43 149 123 55 56 204 147 52 57 77 84 85 74 2 101 80 119
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_47_48.jpg 19 288 5 29 37 255 38 24 21 290 43 15 15 270 49 21 21 246 61 21 19 281 66 21 22 213 31 35 23 197 51 25 16 203 65 31 34 255 84 30 25 230 106 46 35 222 97 16 29 202 135 51 61 108 82 107 120 112 25 86 71 72 90 51 35 10 117 63 34 36 135 79 71 2 157 23 39
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_49_49.jpg 21 274 68 26 29 227 47 32 23 249 56 22 20 248 83 34 41 220 79 33 23 198 65 28 21 157 39 57 39 217 35 18 24 235 35 24 14 259 22 19 23 276 22 16 18 270 33 42 27 291 54 22 26 295 5 22 21 170 108 50 43 205 140 49 39 95 160 80 62 160 189 20 34 110 78 43 19 17 110 61 37 12 91 144 117
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_51_50.jpg 24 244 6 43 23 220 43 19 17 240 30 37 31 285 33 25 23 270 47 25 18 298 52 19 22 248 59 22 14 215 58 23 19 224 69 31 24 263 83 32 20 277 65 26 17 245 98 30 26 202 88 29 29 192 69 25 21 174 111 44 33 219 128 42 37 195 173 55 47 90 173 74 49 116 73 68 54 169 58 24 20 74 52 93 60 65 130 60 42 3 135 55 19 1 150 54 76
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_55_53.jpg 15 214 12 50 46 261 33 35 41 290 61 18 25 268 76 26 28 228 58 34 32 243 97 29 31 205 85 37 29 173 46 52 46 163 51 21 18 213 125 41 45 93 77 52 34 97 97 57 43 132 94 83 81 189 178 63 44 78 176 70 42
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_08_57_54.jpg 17 72 105 47 40 71 198 66 25 209 134 52 38 148 122 52 41 140 85 47 38 119 72 44 29 210 83 34 29 197 69 32 19 202 48 27 16 225 51 26 19 265 76 35 24 240 60 30 25 272 24 27 18 231 22 34 23 272 52 25 18 296 56 20 17 299 40 15 13
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_01_56.jpg 23 277 11 39 37 258 5 39 35 300 36 14 17 265 38 16 17 235 34 28 15 243 44 22 20 262 55 19 20 289 55 22 25 269 79 26 25 235 61 30 28 217 52 28 24 198 36 42 28 162 61 30 16 170 73 40 29 208 88 37 27 241 106 36 29 197 160 51 48 160 113 49 49 90 99 58 49 125 72 35 26 44 71 71 60 0 137 40 47 39 141 124 79
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_03_57.jpg 17 280 19 24 20 262 17 25 16 269 34 31 23 295 48 24 23 271 57 41 29 248 94 28 29 206 46 59 55 210 28 35 25 174 55 28 20 125 67 39 28 65 92 50 41 1 88 46 106 98 105 56 43 149 86 71 78 158 73 33 29 213 128 52 49 175 198 54 25
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_07_59.jpg 18 103 21 90 86 157 52 55 48 197 87 41 31 263 56 20 24 291 62 17 19 265 81 33 27 224 70 39 30 215 41 36 31 246 42 18 19 280 43 17 20 215 21 39 28 295 11 15 15 257 25 38 22 199 144 52 60 236 101 45 44 76 118 55 55 105 110 87 89 2 117 67 51
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_10_00.jpg 21 2 131 43 49 83 94 51 32 77 123 58 52 130 147 63 57 1 190 59 35 216 121 48 60 267 6 35 28 291 21 25 19 283 27 18 18 251 23 38 29 264 49 29 18 293 40 25 39 244 65 33 19 235 45 23 24 202 32 44 28 191 68 56 58 249 98 37 21 267 75 31 24 145 56 38 28 152 76 45 41 188 193 46 29
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_12_01.jpg 20 4 93 138 129 127 142 60 58 180 95 43 39 113 71 36 33 150 63 57 47 222 78 25 20 249 97 33 21 229 122 42 40 185 192 50 32 203 60 27 26 279 39 26 20 296 54 23 20 282 68 21 21 251 57 25 23 206 44 27 20 232 35 20 14 263 35 21 17 236 47 29 19 256 29 17 16 284 15 33 20
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_18_05.jpg 21 183 32 44 37 154 63 36 22 98 72 52 33 17 111 66 47 51 135 65 49 132 153 73 55 207 161 49 48 244 102 35 33 181 102 41 33 131 89 58 37 219 78 30 26 254 58 27 15 288 47 15 15 256 39 22 16 200 59 35 27 275 24 14 10 286 35 16 9 295 12 21 24 265 74 29 26 291 58 19 24 311 46 8 21
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_20_06.jpg 16 20 139 77 66 11 118 68 43 114 155 70 59 213 132 50 45 177 108 44 32 118 100 52 34 104 84 44 29 157 59 33 25 188 49 50 51 248 88 31 34 287 58 16 15 276 29 29 31 239 29 35 26 226 35 17 19 187 181 54 40 274 11 21 17
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_22_07.jpg 16 83 34 95 83 274 9 27 21 241 22 27 20 186 18 57 49 195 47 44 34 280 26 35 32 253 21 37 39 292 61 13 20 267 69 25 28 232 101 30 34 185 107 33 33 147 82 37 38 2 131 59 53 33 140 82 60 161 149 88 73 66 193 69 26
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_24_08.jpg 20 2 156 93 72 1 128 61 48 128 129 69 48 78 189 77 32 152 153 81 67 226 126 42 39 246 91 33 28 196 90 38 33 97 61 99 81 78 84 43 34 302 52 16 23 301 39 14 12 267 32 28 15 260 40 19 17 262 55 25 18 280 76 24 23 201 40 41 50 239 36 26 28 180 52 30 15 126 38 55 44
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_26_09.jpg 20 272 6 35 31 294 33 17 20 281 41 20 21 290 58 22 26 260 51 20 21 244 63 14 19 217 12 53 39 216 50 29 26 257 79 29 23 216 78 29 30 175 79 31 20 110 27 82 71 80 116 53 44 24 114 52 41 184 89 39 38 237 104 39 33 149 132 53 39 167 145 87 72 93 180 72 38 0 193 46 31
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_30_12.jpg 18 192 15 60 53 102 27 83 73 146 74 39 37 192 66 32 18 225 37 33 32 254 57 25 16 251 94 32 19 170 113 45 33 221 121 44 41 287 72 19 19 297 56 18 18 281 43 25 19 276 32 16 14 87 117 62 44 32 110 61 45 3 157 69 61 99 150 71 65 175 197 44 24
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_32_13.jpg 20 215 120 40 59 173 99 50 46 107 43 98 97 80 89 32 31 2 126 61 50 4 195 56 26 77 164 81 54 170 199 57 24 250 79 41 36 219 80 35 23 279 4 35 28 307 33 10 12 258 21 21 20 281 31 15 11 244 37 14 10 222 43 21 14 217 57 20 13 298 60 15 21 289 41 21 20 251 41 37 37
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_33_55.jpg 17 235 8 52 40 289 28 11 13 298 54 20 20 254 45 31 29 225 29 58 31 157 40 73 46 117 66 44 28 256 86 28 16 231 69 30 21 242 106 34 29 201 155 52 41 138 76 79 90 87 116 56 42 21 109 60 40 1 139 68 82 22 189 104 33 284 66 21 26
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_35_57.jpg 17 264 23 46 47 256 6 36 24 253 31 20 25 229 36 27 30 215 41 14 18 172 52 37 22 203 62 25 19 231 65 30 24 270 72 34 33 199 78 44 38 163 80 34 22 97 73 49 32 111 90 55 44 159 114 51 39 211 149 46 48 102 147 76 77 1 120 90 91
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_37_59.jpg 20 275 13 23 25 236 31 33 36 276 43 14 20 288 38 10 14 301 54 17 19 211 45 27 21 277 67 27 22 232 68 27 23 245 96 28 30 211 63 21 18 135 54 74 65 176 101 52 33 221 130 44 55 126 126 74 78 98 82 44 23 24 110 66 46 1 177 64 45 46 203 59 20 188 179 57 43 307 31 11 17
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_40_00.jpg 19 81 193 73 27 204 160 49 50 245 93 36 38 231 73 29 26 19 71 103 80 96 77 78 63 169 83 57 70 186 71 27 15 133 58 36 18 172 32 50 34 293 28 11 16 266 25 30 21 299 37 16 14 297 58 19 16 276 67 31 23 268 49 22 22 253 37 19 22 244 27 22 18 217 38 26 22
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_42_01.jpg 20 290 17 25 24 287 40 21 20 309 48 8 19 291 63 21 23 268 52 23 20 254 41 20 19 270 24 17 15 247 33 23 16 220 51 25 19 233 74 34 12 250 103 24 24 167 39 70 52 131 25 61 57 196 90 35 29 148 125 54 35 191 162 47 43 112 102 44 43 2 45 129 119 0 92 102 129 75 167 78 53
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_44_02.jpg 20 298 4 20 24 291 28 19 14 304 53 13 17 289 42 15 18 278 52 15 13 286 64 22 19 261 55 20 22 270 75 27 28 237 73 23 20 227 43 30 27 207 27 31 24 185 45 43 43 144 41 45 32 121 66 65 53 208 88 33 28 240 96 33 33 171 118 42 38 204 155 40 51 0 99 135 121 105 180 66 40
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_46_03.jpg 20 44 140 74 65 274 6 33 31 272 31 23 22 286 41 31 16 270 51 21 24 252 30 15 16 245 46 23 17 244 63 26 21 222 71 12 21 223 37 20 23 197 51 28 16 183 76 31 21 225 85 29 23 259 94 32 23 179 108 42 34 115 97 45 38 125 70 39 28 119 154 68 51 182 171 58 50 77 198 52 23
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_48_04.jpg 19 273 14 27 22 207 40 64 32 253 19 20 21 190 16 55 45 286 66 21 16 257 57 24 15 265 82 28 22 218 73 33 30 168 60 29 19 176 69 36 29 125 88 48 44 127 72 35 20 182 105 42 27 235 113 35 29 196 160 48 50 150 133 56 49 38 70 86 73 1 90 34 103 46 179 100 40
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_52_06.jpg 19 107 132 60 44 100 104 62 39 85 85 48 33 2 124 61 49 2 168 75 54 79 191 77 31 226 94 56 60 182 166 57 53 178 93 43 41 137 40 68 53 286 29 18 14 255 19 25 21 215 20 42 32 278 47 20 18 227 46 31 15 253 62 26 24 224 70 27 23 279 74 25 18 291 61 23 23
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_54_08.jpg 17 248 15 42 33 207 27 37 28 296 22 18 18 288 45 30 34 266 46 22 27 242 46 19 21 262 84 30 22 235 64 24 29 214 58 21 18 162 49 34 23 132 74 36 25 190 65 24 15 230 109 36 38 195 171 52 50 141 83 84 83 16 67 123 130 66 204 55 16
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_56_09.jpg 19 137 161 102 61 78 176 71 45 35 132 76 63 125 82 54 35 176 119 53 28 272 9 31 18 263 25 27 20 227 11 45 37 286 43 18 12 276 56 19 14 245 48 22 15 203 47 25 18 218 53 32 27 245 63 25 19 278 71 21 18 301 56 13 20 254 94 28 27 214 80 34 31 183 64 36 33
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_09_58_10.jpg 21 297 38 15 18 298 4 21 19 306 24 8 9 283 35 15 12 262 3 38 34 226 37 53 27 192 17 55 47 251 61 34 21 295 62 19 15 279 74 22 21 252 91 23 28 227 123 43 34 205 83 38 32 190 69 34 22 113 43 72 59 161 118 45 39 114 106 48 37 27 102 62 44 185 179 53 37 20 154 79 64 75 193 76 27
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_02_12.jpg 22 68 130 66 36 61 62 67 58 3 103 35 82 95 158 80 65 168 115 46 41 152 74 45 45 136 66 30 32 161 50 24 23 196 47 48 31 220 67 38 33 254 89 30 25 225 117 41 39 173 184 62 37 281 2 31 30 276 35 16 11 288 45 14 16 296 54 21 20 274 71 26 21 263 56 18 21 258 22 21 17 249 45 23 21 202 82 14 22
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_04_13.jpg 16 109 51 81 61 193 35 35 28 229 35 25 16 291 36 20 21 266 6 31 36 258 54 28 17 290 68 23 21 262 84 27 25 232 74 30 15 180 79 57 53 233 116 41 36 119 144 62 63 78 110 59 54 2 92 62 104 179 186 60 37 4 195 66 29
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_08_15.jpg 17 53 68 112 99 136 141 53 47 188 105 40 23 223 75 31 25 139 20 72 56 294 37 20 17 266 36 15 16 295 19 11 12 264 14 36 21 224 16 43 37 229 47 30 24 276 44 23 18 261 55 17 19 284 63 24 28 250 95 29 30 219 138 45 39 165 193 63 28
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_10_16.jpg 22 70 34 100 80 158 72 45 32 278 31 23 17 299 28 15 16 284 20 19 13 267 26 13 11 233 39 25 13 202 64 32 17 249 49 23 19 278 48 25 12 254 62 22 20 213 79 34 23 170 98 47 40 94 111 71 39 122 134 67 59 210 137 55 41 239 102 38 32 271 88 25 21 284 62 32 24 305 49 13 22 190 188 44 34 2 170 77 49
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_12_17.jpg 20 266 25 18 18 286 38 16 14 301 19 14 20 294 56 21 25 272 49 23 20 240 32 25 22 211 47 29 14 249 61 25 20 228 65 27 32 260 82 25 39 227 124 40 36 190 102 33 31 153 86 45 33 172 38 42 45 117 66 34 29 66 88 52 39 95 119 90 96 190 159 52 64 52 136 65 51 1 85 43 113
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_14_18.jpg 16 126 20 83 73 15 117 57 46 134 91 42 24 183 107 35 33 90 113 96 94 186 168 54 54 263 84 28 21 217 80 32 23 198 61 34 22 300 21 14 16 282 19 12 16 259 36 24 10 275 49 22 13 285 69 24 19 244 51 37 32 285 31 25 22
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_16_19.jpg 18 259 29 28 25 295 39 18 15 263 50 36 18 287 69 22 20 225 38 25 16 232 47 23 21 230 76 29 20 257 89 32 19 205 51 29 29 155 17 71 59 171 72 28 26 188 88 41 39 229 106 40 42 132 97 47 30 115 74 41 33 51 111 73 64 124 129 61 68 183 170 56 49
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_18_20.jpg 17 281 23 20 19 249 20 33 26 266 34 16 21 279 46 27 19 300 33 16 16 307 52 11 15 283 66 24 18 225 43 45 47 202 31 40 30 254 93 33 20 219 127 47 36 193 100 42 30 153 60 57 44 142 133 51 51 75 55 68 48 37 97 100 91 0 137 37 48
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_20_21.jpg 19 294 40 17 18 262 35 20 20 191 55 40 30 200 30 45 25 240 36 20 14 266 56 36 17 276 72 25 21 243 65 24 26 254 86 32 29 212 84 30 23 167 82 30 20 222 113 45 42 166 110 39 39 112 101 52 46 2 113 106 106 103 154 66 61 182 168 53 50 85 42 91 71 282 12 31 28
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_24_23.jpg 17 178 19 61 50 143 81 43 35 100 72 46 34 192 64 53 49 260 80 31 26 230 118 37 31 167 116 52 32 41 122 72 62 1 132 30 28 2 175 30 48 96 160 75 58 184 158 62 63 277 12 22 19 262 25 29 21 267 50 27 18 279 41 22 15 299 57 17 18
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_32_28.jpg 22 226 114 36 43 268 15 40 38 305 35 11 15 283 44 22 20 289 58 26 23 256 60 25 18 244 45 19 16 235 31 21 19 214 44 25 16 227 58 25 15 215 71 39 31 254 92 34 22 187 97 37 38 149 83 38 31 179 47 32 29 128 63 27 29 55 91 55 39 70 119 62 48 99 157 78 62 184 179 53 42 1 182 54 40 2 99 19 77
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_34_29.jpg 23 293 28 12 15 285 25 11 11 301 32 18 18 286 47 29 19 255 30 30 22 229 27 31 19 205 47 22 17 221 50 27 19 246 56 34 24 277 74 22 16 292 64 19 15 262 88 28 20 232 77 22 20 185 61 38 30 150 51 36 29 88 77 47 33 227 110 38 38 206 94 27 19 163 105 59 42 2 83 89 75 68 131 61 39 113 149 61 48 140 166 95 54
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_36_30.jpg 21 142 88 45 36 120 75 38 25 2 125 40 59 2 183 35 40 113 157 61 55 209 136 48 51 184 108 42 27 247 105 32 22 267 77 18 22 230 71 30 25 200 69 29 21 167 61 25 20 221 54 29 18 246 33 28 23 262 59 18 12 283 55 31 25 273 33 21 17 254 7 40 28 290 26 18 13 299 37 15 11 220 41 21 14
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_38_31.jpg 15 207 140 48 40 164 113 47 41 122 89 49 45 107 79 39 22 55 130 68 47 1 145 41 48 179 43 62 42 248 102 34 27 76 175 78 43 264 62 43 41 68 100 28 28 283 27 27 23 270 48 23 11 247 63 27 21 242 36 20 18
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_40_32.jpg 16 103 149 76 55 218 124 45 41 173 96 46 41 128 88 45 40 92 41 84 63 232 95 41 25 180 170 59 50 276 75 27 26 246 62 28 26 198 58 34 27 207 39 33 19 291 61 19 16 266 37 36 26 236 42 25 26 289 12 23 14 258 25 21 16
+[AID01213]\Index1_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Southbound_[AID01213]_2022_04_09_10_42_33.jpg 16 164 123 48 38 69 129 62 42 31 98 60 47 220 130 46 45 275 49 24 21 261 40 22 16 276 34 20 15 296 42 15 14 282 67 28 21 256 84 34 35 196 62 29 20 228 47 34 24 184 18 60 46 127 26 61 88 239 25 31 23 271 15 30 11
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_07_33_18.jpg 1 8 2 28 19
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_07_39_21.jpg 1 85 41 36 25
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_07_57_23.jpg 1 1 31 28 32
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_08_03_26.jpg 1 168 167 95 56
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_08_11_30.jpg 1 6 42 47 41
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_08_13_31.jpg 1 8 42 43 47
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_08_21_35.jpg 1 1 5 30 31
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_08_27_39.jpg 1 1 73 22 34
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_08_29_40.jpg 1 53 26 28 20
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_08_49_50.jpg 1 22 107 50 41
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_08_53_52.jpg 1 0 1 26 15
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_09_01_56.jpg 2 173 76 47 41 5 10 20 11
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_09_20_06.jpg 2 17 10 24 17 158 168 92 53
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_09_24_08.jpg 1 93 33 29 19
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_09_32_13.jpg 3 141 58 47 41 29 75 40 28 12 8 33 33
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_09_33_56.jpg 1 3 5 29 28
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_09_48_04.jpg 1 67 30 31 25
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_10_04_13.jpg 1 73 23 55 42
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_10_06_14.jpg 5 25 59 58 55 70 51 37 29 68 32 25 18 11 17 20 15 165 73 57 40
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_10_14_18.jpg 1 47 22 20 16
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_10_42_33.jpg 1 12 54 35 32
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_10_50_37.jpg 2 1 68 70 70 59 31 28 17
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_10_52_38.jpg 1 81 50 17 23
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_10_56_40.jpg 1 100 32 65 48
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_00_42.jpg 1 38 73 14 22
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_04_44.jpg 2 5 9 32 27 44 11 38 31
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_06_45.jpg 2 63 82 76 66 83 166 101 55
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_12_49.jpg 1 179 186 68 38
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_39_02.jpg 1 191 88 62 39
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_45_06.jpg 1 58 17 27 25
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_47_07.jpg 1 2 54 25 23
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_49_09.jpg 1 92 45 31 21
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_53_10.jpg 2 31 65 36 33 223 116 75 74
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_55_12.jpg 2 73 80 119 98 208 74 49 32
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_11_57_13.jpg 1 13 6 22 18
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_12_02_47.jpg 2 16 66 25 20 23 116 54 40
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_12_04_48.jpg 2 63 18 25 19 21 12 25 17
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_12_20_56.jpg 1 262 101 57 106
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_12_24_58.jpg 1 8 92 41 40
+[AID03106]\Index2_West_Kowloon_Highway_near_Centenary_Substation_-_Northbound_[AID03106]_2022_04_09_12_28_59.jpg 2 129 51 46 41 47 28 37 37
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_23_14.jpg 1 146 32 22 29
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_43_24.jpg 1 66 1 11 15
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_49_26.jpg 1 82 25 28 36
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_55_29.jpg 1 41 177 74 44
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_07_59_24.jpg 1 39 63 46 69
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_09_29.jpg 1 154 37 26 26
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_11_30.jpg 1 117 87 30 35
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_19_34.jpg 1 69 0 13 16
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_25_38.jpg 1 76 18 16 21
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_33_42.jpg 1 123 41 27 26
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_41_45.jpg 2 127 48 28 27 72 5 15 17
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_47_49.jpg 1 28 11 26 39
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_51_51.jpg 3 77 15 27 31 104 20 17 17 139 30 18 21
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_08_57_54.jpg 1 108 25 22 22
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_03_58.jpg 2 86 0 22 18 37 5 13 11
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_08_00.jpg 2 53 22 31 44 78 19 17 17
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_10_01.jpg 2 19 117 82 107 108 141 48 60
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_20_06.jpg 1 74 9 29 34
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_24_09.jpg 2 32 21 41 76 164 39 23 22
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_26_10.jpg 2 19 26 38 77 114 6 17 10
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_28_11.jpg 2 70 42 27 28 65 1 20 24
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_32_13.jpg 6 68 2 14 9 114 2 28 27 90 36 17 22 105 164 49 56 181 112 57 51 201 93 44 27
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_33_56.jpg 3 22 46 56 110 204 128 47 38 156 47 28 21
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_40_00.jpg 1 135 60 30 23
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_42_01.jpg 1 138 63 30 20
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_46_03.jpg 1 16 62 60 126
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_54_08.jpg 2 104 61 25 24 18 47 39 105
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_56_09.jpg 1 163 181 65 41
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_09_58_10.jpg 4 126 102 36 32 66 63 21 28 91 43 23 25 90 6 19 15
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_02_12.jpg 2 84 28 32 37 175 72 39 29
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_16_19.jpg 1 125 45 47 48
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_18_20.jpg 4 21 43 40 59 83 30 16 15 84 2 18 14 111 4 17 17
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_22_22.jpg 1 115 8 17 13
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_24_24.jpg 1 114 7 17 15
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_26_24.jpg 2 65 64 22 24 109 79 34 33
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_30_27.jpg 1 89 8 21 23
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_32_28.jpg 1 261 134 57 49
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_38_31.jpg 2 121 4 18 17 67 1 12 9
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_40_33.jpg 1 107 2 15 11
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_42_34.jpg 1 106 3 16 12
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_44_34.jpg 3 69 4 25 27 100 12 21 18 158 153 54 55
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_50_38.jpg 1 177 170 91 49
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_10_58_42.jpg 1 80 28 29 26
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_00_43.jpg 3 89 37 19 22 93 5 26 24 126 18 18 18
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_04_44.jpg 1 140 53 30 23
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_08_47.jpg 1 253 130 56 47
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_10_48.jpg 2 72 87 29 31 123 100 66 63
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_12_49.jpg 1 68 3 16 16
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_14_50.jpg 2 192 112 52 50 266 104 26 27
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_18_53.jpg 3 78 15 24 30 110 61 25 27 77 1 12 12
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_20_54.jpg 2 96 2 19 16 202 85 40 29
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_24_56.jpg 2 117 11 16 14 88 39 26 26
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_26_57.jpg 1 249 129 56 45
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_33_00.jpg 1 110 36 27 24
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_37_01.jpg 2 189 82 39 32 88 7 14 7
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_39_02.jpg 1 131 55 25 27
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_43_04.jpg 1 90 122 36 47
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_45_06.jpg 1 105 23 20 16
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_51_10.jpg 1 160 52 29 23
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_11_53_11.jpg 1 120 41 28 23
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_00_44.jpg 3 146 128 85 90 217 140 48 43 113 16 17 14
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_02_47.jpg 2 83 36 20 21 132 18 18 18
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_06_49.jpg 3 89 37 18 15 100 18 19 17 271 159 47 51
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_10_51.jpg 1 172 59 33 29
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_14_53.jpg 3 69 6 27 33 42 29 19 19 114 8 15 13
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_18_55.jpg 1 111 83 35 34
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_20_56.jpg 1 24 17 37 69
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_33_01.jpg 1 158 154 56 56
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_37_03.jpg 1 109 0 10 11
+[AID03211]\Index3_West_Kowloon_Highway_near_Centenary_Substation_-_Southbound_[AID03211]_2022_04_09_12_38_33.jpg 1 110 78 37 41
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_19_13.jpg 2 201 112 15 25 215 76 7 9
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_25_15.jpg 1 217 66 8 13
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_27_16.jpg 2 60 105 56 53 166 64 19 17
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_29_17.jpg 2 195 70 6 10 203 76 10 15
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_41_23.jpg 2 213 93 7 11 155 162 53 49
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_45_25.jpg 1 126 81 31 29
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_49_27.jpg 1 212 80 8 9
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_51_27.jpg 1 215 79 8 8
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_53_28.jpg 1 202 120 10 14
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_57_23.jpg 1 196 77 16 25
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_07_59_24.jpg 2 182 140 23 27 207 70 11 11
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_09_29.jpg 1 209 72 7 8
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_11_30.jpg 5 149 68 21 22 145 96 14 9 188 82 21 27 200 117 14 15 212 84 11 13
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_15_32.jpg 3 161 66 18 16 157 92 15 14 17 157 33 21
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_21_35.jpg 1 206 89 15 23
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_25_38.jpg 1 130 121 60 67
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_31_41.jpg 4 209 105 11 10 191 93 16 11 212 88 10 7 216 74 9 11
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_35_43.jpg 7 183 136 25 32 110 129 21 16 116 109 16 10 168 89 15 13 182 82 12 12 196 67 7 9 216 63 7 9
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_37_44.jpg 2 141 156 32 33 51 147 37 21
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_41_46.jpg 2 115 87 43 32 120 126 24 17
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_43_47.jpg 1 197 84 15 19
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_47_49.jpg 1 150 89 23 24
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_49_50.jpg 2 179 60 19 18 205 83 8 9
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_51_51.jpg 3 168 70 21 20 105 117 22 13 139 164 36 27
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_55_53.jpg 3 160 98 16 11 189 73 8 14 196 98 12 11
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_57_54.jpg 1 158 67 18 18
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_08_59_56.jpg 9 190 81 11 9 169 78 11 7 179 90 11 11 161 84 13 14 145 94 12 8 145 102 16 13 189 105 12 10 203 116 14 10 55 147 67 51
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_05_59.jpg 2 205 105 12 13 158 179 36 45
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_10_01.jpg 1 198 83 13 16
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_12_02.jpg 3 167 92 14 13 207 96 13 11 191 77 10 7
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_14_03.jpg 1 117 141 22 23
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_16_04.jpg 8 26 155 32 26 97 144 27 19 95 116 26 19 168 96 12 13 147 89 12 11 159 84 13 9 183 84 10 8 195 72 8 11
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_18_05.jpg 1 46 102 30 25
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_20_07.jpg 5 188 140 23 24 35 147 35 22 124 103 15 13 169 79 13 17 198 69 7 11
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_22_08.jpg 2 169 172 36 44 196 97 8 15
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_28_11.jpg 4 131 125 20 17 56 171 35 24 59 141 26 25 184 79 10 10
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_30_12.jpg 1 129 112 20 15
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_32_13.jpg 3 180 145 26 35 177 88 11 9 152 88 15 12
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_33_57.jpg 12 184 68 10 8 173 65 9 8 194 74 9 9 187 81 9 8 204 85 9 7 211 97 9 11 178 88 9 11 158 90 13 7 157 104 14 12 119 123 20 15 104 146 28 20 23 193 40 21
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_35_58.jpg 5 181 113 16 17 213 92 6 8 208 72 10 10 48 174 31 25 183 61 9 6
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_37_59.jpg 2 164 86 13 12 205 102 12 8
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_40_00.jpg 2 125 97 27 21 64 141 27 17
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_42_01.jpg 2 158 195 36 26 210 69 10 9
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_44_03.jpg 4 145 140 37 35 201 92 9 12 208 72 9 13 217 74 11 7
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_46_04.jpg 1 193 130 20 20
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_50_06.jpg 6 187 111 14 14 12 181 44 29 100 192 52 24 167 95 11 14 193 72 9 9 214 81 12 9
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_52_07.jpg 11 177 117 19 21 203 103 14 15 214 88 10 10 176 91 12 10 146 113 18 11 58 137 48 43 46 197 34 19 170 84 8 10 166 79 8 6 182 74 9 9 194 74 9 6
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_56_09.jpg 6 10 157 44 39 166 132 27 23 115 136 20 16 146 109 20 16 118 108 16 12 192 89 18 19
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_09_58_10.jpg 1 55 144 34 20
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_04_14.jpg 5 108 137 29 20 36 178 37 29 97 122 20 14 180 87 10 8 168 81 10 8
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_06_14.jpg 3 0 155 29 36 169 169 33 35 193 68 13 14
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_10_16.jpg 2 176 86 11 16 192 99 12 15
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_16_19.jpg 5 105 116 29 25 76 171 18 20 17 160 27 22 215 78 7 7 179 86 14 10
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_20_22.jpg 1 195 95 11 14
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_22_23.jpg 7 211 93 8 14 193 103 11 12 185 73 13 16 159 93 20 16 113 125 19 17 3 185 25 23 22 193 27 25
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_26_25.jpg 2 162 134 23 21 210 94 6 13
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_28_26.jpg 6 145 110 15 13 189 138 22 20 83 151 31 24 180 89 10 8 188 79 7 9 157 89 9 7
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_30_27.jpg 2 169 126 20 24 210 92 10 12
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_34_29.jpg 4 4 180 49 35 177 88 11 11 183 74 10 9 211 95 11 11
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_38_32.jpg 4 203 109 15 17 176 151 33 41 174 90 11 13 207 79 9 7
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_40_33.jpg 5 157 113 34 38 196 131 18 16 148 110 17 16 158 92 13 11 191 71 13 16
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_42_34.jpg 5 99 143 28 19 64 134 27 19 194 126 16 19 156 95 13 14 192 78 7 8
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_44_35.jpg 4 145 86 18 19 170 94 11 9 52 143 29 23 42 165 40 31
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_46_36.jpg 4 145 85 17 22 169 93 12 10 52 143 25 21 45 164 37 32
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_54_40.jpg 8 22 189 42 34 141 116 16 14 86 129 22 15 163 98 12 14 164 81 9 9 179 91 7 6 181 82 10 8 177 73 8 8
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_56_41.jpg 2 207 78 7 6 183 83 9 11
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_10_58_42.jpg 5 112 119 22 16 21 191 36 24 194 96 14 11 207 97 13 11 168 89 12 9
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_00_43.jpg 1 78 173 73 38
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_02_44.jpg 1 153 156 53 64
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_12_49.jpg 1 202 112 14 16
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_14_50.jpg 1 206 100 10 16
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_16_51.jpg 4 87 148 33 25 153 99 14 9 144 114 17 17 185 83 8 8
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_18_53.jpg 1 171 128 23 19
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_20_54.jpg 3 207 96 13 15 136 98 12 15 191 75 11 10
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_24_56.jpg 3 62 127 40 27 143 95 18 11 214 85 7 7
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_28_58.jpg 3 202 117 13 17 217 79 7 10 207 79 7 10
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_30_59.jpg 2 79 181 73 30 138 125 20 16
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_33_00.jpg 5 134 119 20 15 65 166 36 25 135 102 13 7 160 90 11 9 178 79 15 19
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_43_05.jpg 4 126 119 23 16 166 94 14 12 186 82 6 10 171 79 11 8
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_45_07.jpg 4 127 119 22 18 166 95 15 9 184 83 8 10 171 78 9 9
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_47_08.jpg 3 141 120 22 13 147 102 17 14 183 80 12 11
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_49_09.jpg 2 203 85 9 9 213 85 10 9
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_11_57_13.jpg 1 205 113 13 16
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_00_44.jpg 3 201 89 9 9 124 83 33 28 164 87 13 10
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_02_47.jpg 5 179 154 26 36 135 163 31 36 70 138 31 16 134 103 22 15 180 79 12 9
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_06_50.jpg 2 86 139 22 20 156 101 16 15
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_08_51.jpg 3 129 122 22 20 206 79 8 8 218 75 6 8
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_10_51.jpg 2 169 123 25 25 214 75 9 7
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_16_55.jpg 9 152 138 27 33 118 133 23 16 14 161 29 22 212 92 9 10 151 108 16 15 183 83 8 10 205 84 9 8 217 75 5 4 196 73 8 7
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_20_56.jpg 3 194 131 18 18 209 92 10 12 215 74 6 10
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_24_58.jpg 5 60 164 17 16 92 148 26 24 134 116 16 15 164 92 11 12 190 78 10 7
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_29_00.jpg 3 39 148 25 22 151 93 11 10 191 78 7 7
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_31_01.jpg 3 46 147 25 18 191 100 15 13 176 81 11 11
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_33_01.jpg 2 163 67 17 17 208 68 8 10
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_37_04.jpg 7 37 153 33 27 104 133 18 20 167 77 8 10 169 88 9 8 171 94 10 10 193 73 7 11 210 71 7 6
+[TDSIEC10001]\Index4_Harcourt_Road_near_Tim_Mei_Avenue_-_Eastbound_[TDSIEC10001]_2022_04_09_12_38_33.jpg 1 205 80 10 10
