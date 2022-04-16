@@ -25,14 +25,6 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_18_42_04.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_18_44_05.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_18_46_06.jpg 1 24 110 61 43
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_18_48_07.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_18_50_07.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_18_52_08.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_18_54_09.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_18_56_10.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_18_58_11.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_00_12.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_02_13.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_04_13.jpg 1 215 134 48 52
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_06_14.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_08_15.jpg 0
@@ -42,7 +34,6 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_16_17.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_18_18.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_20_19.jpg 1 223 136 44 48
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_22_20.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_24_20.jpg 2 172 59 30 32 37 38 110 92
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_26_21.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_28_22.jpg 0
@@ -52,108 +43,38 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_36_24.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_38_26.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_40_27.jpg 1 65 94 85 81
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_42_29.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_44_29.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_46_30.jpg 1 62 94 54 35
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_48_31.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_50_32.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_52_33.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_54_34.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_56_35.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_19_58_36.jpg 1 185 91 34 33
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_00_37.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_02_38.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_04_39.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_06_39.jpg 1 200 166 61 57
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_08_40.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_10_41.jpg 1 125 63 43 28
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_12_41.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_14_43.jpg 1 128 30 54 50
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_16_43.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_18_44.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_20_45.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_22_46.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_24_47.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_26_48.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_28_49.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_30_50.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_32_50.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_34_51.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_36_52.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_38_52.jpg 2 0 139 72 57 174 36 28 18
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_40_53.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_42_54.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_44_56.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_46_57.jpg 1 244 89 36 31
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_48_58.jpg 1 0 128 107 93
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_50_59.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_53_01.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_55_01.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_57_02.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_20_59_03.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_01_05.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_03_05.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_05_06.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_07_07.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_09_09.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_11_09.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_13_10.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_15_11.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_17_12.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_19_13.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_21_14.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_23_15.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_25_16.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_27_17.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_29_18.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_31_19.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_33_20.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_35_21.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_37_22.jpg 1 1 133 72 53
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_39_23.jpg 1 158 68 126 150
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_41_23.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_43_24.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_45_25.jpg 2 65 88 61 37 157 42 30 25
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_47_26.jpg 1 89 88 50 32
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_49_27.jpg 1 129 73 37 31
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_51_27.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_53_28.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_55_29.jpg 2 211 144 54 59 270 18 30 41
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_57_29.jpg 1 198 75 37 32
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_21_59_30.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_01_31.jpg 3 154 58 34 33 30 111 62 47 30 111 62 47
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_03_32.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_05_33.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_07_34.jpg 1 222 74 57 75
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_09_35.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_11_36.jpg 1 86 82 46 32
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_13_37.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_15_38.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_17_38.jpg 1 234 107 41 39
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_19_39.jpg 1 244 22 30 36
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_21_40.jpg 2 254 80 35 43 208 39 50 56
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_23_41.jpg 1 261 61 26 31
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_25_42.jpg 1 254 72 31 30
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_27_43.jpg 3 104 111 54 45 158 52 36 32 171 30 24 23
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_29_44.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_31_45.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_33_46.jpg 1 109 82 45 34
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_35_47.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_37_47.jpg 2 32 101 66 48 162 39 29 23
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_39_48.jpg 3 81 85 51 35 267 57 26 28 175 12 38 37
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_41_49.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_43_50.jpg 2 13 82 87 80 177 33 25 18
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_45_51.jpg 2 161 32 32 27 234 2 43 58
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_47_52.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_49_53.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_51_54.jpg 2 181 12 33 35 241 2 34 53
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_53_55.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_55_55.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_57_57.jpg 4 22 121 66 42 166 31 84 115 159 25 37 37 257 71 35 37
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_22_59_58.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_01_59.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_04_00.jpg 2 184 33 68 99 60 136 64 57
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_06_01.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_08_02.jpg 2 81 76 53 48 166 34 28 23
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_10_03.jpg 3 218 56 76 123 152 42 37 33 182 26 24 20
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_12_04.jpg 2 85 48 67 57 277 34 21 22
@@ -161,33 +82,20 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_16_05.jpg 1 119 61 34 25
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_18_06.jpg 3 3 87 94 112 108 35 59 58 171 61 34 30
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_20_07.jpg 2 152 45 32 27 261 68 28 35
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_22_09.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_24_10.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_26_11.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_28_11.jpg 1 144 28 50 49
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_30_13.jpg 2 91 110 55 46 99 74 45 30
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_32_14.jpg 2 61 37 128 148 206 169 53 52
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_34_14.jpg 3 62 91 58 39 139 26 48 46 264 46 34 29
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_36_15.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_38_16.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_40_17.jpg 2 252 75 32 35 100 88 48 35
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_42_18.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_44_19.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_46_20.jpg 1 178 26 28 25
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_48_21.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_50_21.jpg 3 16 121 61 47 120 59 42 32 177 32 27 22
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_52_23.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_54_23.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_56_24.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_10_23_58_25.jpg 1 96 81 45 33
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_00_26.jpg 2 128 95 147 124 181 30 23 22
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_02_26.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_04_27.jpg 4 117 97 55 46 257 62 32 33 201 41 28 20 1 160 83 62
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_06_28.jpg 2 158 44 30 20 275 39 22 29
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_08_28.jpg 2 137 19 82 90 249 100 34 41
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_10_29.jpg 4 17 115 70 54 154 62 37 32 168 34 28 24 269 53 25 25
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_12_30.jpg 2 63 136 70 55 222 62 68 99
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_14_30.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_16_31.jpg 4 89 67 51 41 150 44 33 23 217 136 52 57 279 40 22 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_18_32.jpg 6 140 36 75 70 227 67 58 81 129 167 85 51 257 50 25 17 218 20 23 26 255 21 20 24
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_20_32.jpg 2 275 29 19 17 215 143 51 59
@@ -199,15 +107,9 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_32_38.jpg 3 93 82 45 33 142 26 47 42 274 35 19 24
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_34_39.jpg 4 155 46 29 20 92 72 48 33 222 32 70 131 1 139 58 52
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_36_39.jpg 3 134 58 36 29 166 39 32 19 257 33 46 69
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_38_41.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_40_41.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_42_42.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_44_43.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_46_43.jpg 2 149 41 30 27 184 43 33 26
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_48_44.jpg 7 118 65 44 26 263 55 28 28 19 102 199 115 191 45 30 26 160 61 41 34 198 13 24 20 281 22 19 18
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_50_45.jpg 5 161 69 40 31 197 36 28 27 145 41 34 29 175 63 112 155 19 112 115 94
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_52_45.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_54_46.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_56_47.jpg 7 130 99 48 35 98 81 43 37 157 65 35 34 193 49 26 24 216 125 52 63 3 127 107 93 141 18 49 44
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_00_58_48.jpg 10 1 88 74 85 83 128 58 45 125 143 61 54 238 98 35 44 136 69 48 47 111 64 36 26 169 56 32 29 268 40 28 19 159 28 31 22 173 39 36 18
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_00_48.jpg 4 180 34 40 41 155 63 43 39 69 83 51 38 88 104 64 57
@@ -217,9 +119,7 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_08_51.jpg 7 117 63 44 34 139 89 33 24 136 118 51 50 257 67 37 32 124 179 64 43 1 97 114 125 161 12 69 78
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_10_52.jpg 6 259 88 28 32 171 63 35 29 105 76 52 39 110 114 54 39 0 132 99 91 197 37 27 26
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_12_52.jpg 7 209 104 73 105 97 131 60 54 50 100 55 42 131 54 37 38 278 33 21 22 207 32 24 26 165 41 47 48
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_14_53.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_16_54.jpg 8 237 106 39 38 277 40 22 28 183 27 48 45 126 54 35 32 144 79 42 34 80 122 61 54 1 61 74 129 3 186 63 35
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_18_55.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_20_56.jpg 9 51 17 107 103 127 78 43 44 169 30 51 51 274 40 23 23 260 66 29 34 195 89 42 43 241 107 47 41 13 149 94 60 199 165 63 60
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_22_58.jpg 5 149 77 76 73 184 48 30 29 119 57 41 32 196 28 29 22 232 27 69 109
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_24_59.jpg 8 56 74 111 105 154 135 65 58 224 142 48 56 0 189 78 37 176 61 39 27 135 57 35 24 273 45 26 32 203 16 37 40
@@ -228,20 +128,14 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_31_01.jpg 6 149 49 29 17 188 26 34 44 125 62 34 33 58 84 57 47 1 135 65 66 225 122 47 56
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_33_02.jpg 7 246 91 39 55 35 95 109 86 94 53 54 45 160 68 33 30 264 58 28 35 193 41 30 32 276 29 20 26
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_35_02.jpg 10 102 103 64 53 13 86 96 80 93 71 43 32 203 144 57 70 253 82 35 40 267 45 25 28 199 40 27 30 155 48 31 22 282 25 20 18 189 23 27 17
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_37_03.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_39_04.jpg 8 2 61 121 120 125 91 50 45 235 113 39 53 146 62 29 27 147 41 36 26 193 47 27 32 190 31 22 23 273 49 24 25
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_41_05.jpg 11 169 54 39 33 127 53 40 31 35 141 88 67 2 94 69 81 246 92 31 29 186 183 67 39 263 64 29 24 234 42 24 24 208 22 28 28 175 27 25 23 265 18 36 34
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_43_05.jpg 9 69 82 53 47 0 142 53 45 243 98 42 43 178 58 30 29 102 38 58 47 160 17 38 40 263 56 28 32 273 37 24 21 166 149 104 70
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_45_06.jpg 10 91 135 63 48 211 152 56 66 255 93 36 32 146 70 38 31 7 82 90 122 79 67 44 30 131 49 42 29 212 11 54 85 276 32 24 35 159 32 33 26
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_47_07.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_49_08.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_51_09.jpg 10 65 123 74 65 125 91 50 41 195 77 43 46 250 84 36 30 235 122 41 46 110 180 72 42 159 41 46 50 274 46 22 26 239 35 22 29 202 32 25 29
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_53_10.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_55_10.jpg 10 136 61 101 119 239 108 42 46 210 161 56 59 78 89 43 39 138 51 39 28 255 77 30 30 267 53 22 26 219 28 52 46 175 24 26 27 281 39 21 20
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_57_11.jpg 11 199 40 61 66 93 133 65 45 170 110 55 62 227 130 47 47 152 46 29 21 250 80 27 35 272 57 26 29 274 39 24 22 176 35 44 41 208 26 23 28 245 13 34 33
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_01_59_12.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_01_13.jpg 6 47 68 130 106 253 37 46 74 184 24 41 47 158 31 30 29 214 6 33 36 2 77 77 87
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_03_14.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_05_14.jpg 10 83 119 66 53 10 101 63 47 145 67 44 41 259 60 30 38 179 52 33 34 277 32 21 25 202 35 27 20 181 22 26 23 215 3 38 41 2 181 77 39
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_07_15.jpg 6 4 100 104 97 83 82 42 24 267 50 28 24 153 66 41 30 122 8 73 74 193 22 16 20
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_09_16.jpg 9 189 25 73 103 50 81 53 33 123 89 54 39 66 124 61 64 259 79 28 36 164 32 48 51 140 45 29 35 84 187 69 35 2 182 70 40
@@ -251,13 +145,9 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_17_19.jpg 7 92 74 48 43 206 164 60 57 153 33 34 33 198 44 22 23 271 13 35 47 86 42 59 42 2 122 139 99
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_19_20.jpg 9 131 90 45 44 73 152 78 65 1 151 53 52 2 79 88 72 171 34 45 51 103 63 43 44 262 8 42 75 133 50 39 20 215 28 20 27
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_21_21.jpg 10 79 116 70 49 246 88 41 50 103 60 47 44 156 71 34 32 2 193 68 29 156 32 34 30 193 47 25 23 275 35 22 21 209 30 26 21 192 17 19 19
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_23_22.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_25_23.jpg 6 176 74 40 58 92 84 58 62 21 100 61 46 174 36 43 43 276 44 22 23 1 192 79 33
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_27_24.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_29_25.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_31_26.jpg 8 235 129 44 61 16 97 133 112 85 162 76 56 172 65 32 23 136 90 44 32 45 23 107 97 156 24 43 34 188 28 41 36
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_33_26.jpg 8 225 121 43 51 128 96 47 46 7 130 77 74 0 105 61 58 97 76 40 31 149 46 29 18 157 54 28 26 167 26 19 17
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_35_27.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_37_28.jpg 7 70 85 49 49 2 140 50 53 112 66 42 31 188 45 33 33 246 36 51 83 160 45 24 24 168 25 29 26
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_39_29.jpg 4 198 38 25 25 131 92 43 33 244 96 41 52 226 3 26 32
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_41_30.jpg 10 189 124 81 94 6 164 93 56 99 108 60 45 126 28 50 47 139 75 45 36 176 53 36 29 271 59 26 24 207 31 30 22 224 16 21 23 286 17 18 24
@@ -270,65 +160,49 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_55_36.jpg 6 54 96 98 104 136 68 44 41 128 51 38 30 178 32 28 20 289 19 16 19 45 104 48 36
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_57_36.jpg 5 57 120 73 59 130 136 70 65 176 61 30 27 261 63 32 33 225 132 49 54
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_02_59_37.jpg 3 117 44 114 153 124 62 41 28 257 83 33 31
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_01_38.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_03_39.jpg 5 144 125 57 48 218 136 54 56 87 71 54 40 189 44 33 28 170 31 30 23
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_05_40.jpg 3 236 100 38 41 96 75 50 37 189 7 30 36
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_07_40.jpg 3 143 47 36 28 20 113 75 55 238 100 43 55
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_09_41.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_11_42.jpg 6 179 38 67 93 92 111 59 48 73 77 50 40 4 122 68 67 254 71 35 41 155 23 39 42
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_13_43.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_15_43.jpg 5 94 104 64 56 148 46 33 29 264 56 30 32 230 27 37 46 201 27 26 23
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_17_44.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_19_45.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_21_45.jpg 4 150 69 46 38 54 99 62 40 111 57 44 25 191 34 29 19
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_23_46.jpg 4 94 33 108 118 14 116 77 60 238 59 37 31 281 32 22 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_25_47.jpg 7 221 77 56 67 69 91 57 36 0 133 61 74 153 73 48 46 165 52 26 23 277 35 21 22 177 34 23 20
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_27_48.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_29_49.jpg 6 96 100 58 57 223 124 46 54 100 73 46 34 148 43 34 29 1 145 47 59 175 28 27 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_31_49.jpg 6 88 71 51 38 0 103 57 96 113 100 48 42 189 152 59 67 256 47 39 49 169 12 35 40
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_33_50.jpg 2 154 37 92 121 238 114 48 45
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_35_51.jpg 5 29 56 106 86 151 67 42 42 149 48 32 21 176 29 28 22 264 54 23 26
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_37_52.jpg 5 153 31 33 33 112 67 39 29 34 101 63 55 205 177 54 43 268 34 24 27
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_39_52.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_41_53.jpg 7 150 77 42 34 219 66 30 29 156 43 32 23 121 63 38 41 2 80 101 97 271 25 30 41 194 31 31 28
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_43_54.jpg 3 80 51 67 64 0 121 68 70 188 23 25 20
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_45_55.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_47_55.jpg 5 189 90 43 39 188 44 30 29 264 17 36 36 201 28 24 17 185 166 62 56
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_49_56.jpg 5 69 108 60 57 112 66 45 34 211 10 55 78 270 51 27 34 173 29 32 24
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_51_57.jpg 7 140 35 46 40 70 91 57 42 110 108 53 39 182 101 49 45 229 122 50 60 267 46 24 39 201 39 27 29
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_53_58.jpg 2 164 31 29 28 191 23 26 16
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_55_58.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_03_57_59.jpg 4 122 55 41 38 19 109 66 47 229 39 26 22 165 17 36 36
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_00_00.jpg 4 169 56 32 28 81 79 55 44 242 99 44 55 180 31 24 20
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_02_02.jpg 2 26 62 98 84 183 26 26 23
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_04_02.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_06_03.jpg 2 14 70 147 124 252 20 23 27
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_08_04.jpg 6 108 92 57 58 192 50 52 67 245 85 36 43 130 60 37 24 170 10 35 33 210 23 27 21
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_10_05.jpg 4 57 92 55 52 139 46 36 28 265 64 26 29 200 27 20 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_12_06.jpg 6 63 124 69 68 83 87 51 34 111 170 73 49 215 153 59 68 142 23 75 88 269 42 26 28
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_14_07.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_16_08.jpg 7 158 52 37 26 32 107 71 52 40 150 83 63 230 104 44 61 230 53 24 26 214 30 20 18 263 11 32 37
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_18_09.jpg 4 106 73 42 30 161 37 26 24 2 133 57 54 199 21 23 15
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_20_10.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_22_10.jpg 9 156 76 47 39 75 75 55 45 236 53 36 32 223 120 47 63 26 148 88 76 2 121 49 54 112 57 38 21 165 11 45 43 284 15 17 22
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_24_12.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_26_12.jpg 5 158 65 40 37 14 127 58 48 131 53 36 27 170 33 28 23 219 31 25 19
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_28_13.jpg 5 73 123 67 57 110 52 56 53 149 18 54 46 244 30 27 25 282 29 20 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_30_14.jpg 4 92 76 84 79 140 84 140 136 262 44 25 18 238 25 21 21
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_32_15.jpg 2 0 146 54 52 104 15 79 83
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_34_16.jpg 6 2 161 83 60 179 85 47 42 110 191 68 28 256 70 32 31 235 3 44 58 195 18 25 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_36_17.jpg 6 91 97 53 36 94 151 79 60 211 78 34 32 171 8 58 72 234 22 36 42 280 31 21 19
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_38_17.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_40_18.jpg 4 157 71 36 29 224 50 30 32 255 83 28 30 279 37 21 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_42_19.jpg 1 145 29 50 43
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_44_20.jpg 4 11 74 93 85 125 39 52 45 272 45 20 24 194 19 23 19
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_46_20.jpg 3 103 97 61 47 268 42 29 31 225 19 18 19
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_48_21.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_50_22.jpg 4 265 61 24 33 47 96 68 47 150 47 34 26 191 17 27 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_52_23.jpg 4 254 74 30 32 237 36 26 28 282 35 18 17 208 153 60 68
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_54_24.jpg 5 225 120 44 51 33 107 72 54 117 64 42 33 162 20 39 38 279 29 24 21
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_56_26.jpg 5 224 119 48 56 117 66 42 31 31 106 72 59 164 17 34 45 281 27 18 24
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_04_58_27.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_00_28.jpg 6 247 96 42 51 153 127 58 56 197 72 40 29 269 59 25 21 243 30 25 24 279 28 20 19
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_02_29.jpg 2 266 28 35 49 266 28 35 49
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_04_30.jpg 5 141 30 46 45 42 104 64 42 11 154 77 58 115 164 74 55 257 60 33 36
@@ -336,8 +210,6 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_08_32.jpg 8 167 88 50 46 251 86 36 55 159 63 37 40 196 38 28 29 241 50 27 27 276 34 25 27 225 21 20 20 200 14 20 19
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_10_32.jpg 4 247 84 39 47 154 42 52 54 213 24 23 26 4 181 83 41
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_12_33.jpg 4 114 12 75 80 12 118 71 52 1 170 76 49 278 32 24 35
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_14_34.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_16_35.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_18_36.jpg 5 137 50 37 33 70 94 53 41 279 26 24 25 214 11 30 35 188 26 22 21
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_20_37.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_05_22_37.jpg 2 218 61 35 29 199 157 68 62
@@ -518,9 +390,6 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_11_13_24.jpg 2 16 124 62 44 172 29 31 25
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_11_15_25.jpg 3 254 82 33 47 245 31 22 21 281 25 18 21
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_11_17_26.jpg 4 41 120 68 54 107 64 47 35 264 42 32 47 181 3 42 36
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_11_19_26.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_11_21_28.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_11_23_29.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_11_25_30.jpg 4 2 127 92 96 112 61 41 23 255 69 30 32 228 3 43 63
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_11_27_30.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_11_29_31.jpg 4 221 129 46 52 63 104 47 28 170 38 25 19 274 37 22 18
@@ -586,8 +455,6 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_13_30_25.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_13_32_26.jpg 2 264 30 38 57 225 20 21 17
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_13_34_26.jpg 2 68 79 191 137 57 101 54 38
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_13_36_27.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_13_38_28.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_13_40_29.jpg 3 17 31 128 118 103 55 125 163 205 109 80 106
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_13_42_30.jpg 3 257 70 30 29 130 58 37 27 193 18 24 23
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_13_44_30.jpg 2 116 68 41 28 0 152 42 56
@@ -601,9 +468,6 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_00_38.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_02_39.jpg 1 251 75 39 37
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_04_39.jpg 1 279 19 21 18
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_06_40.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_08_41.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_10_43.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_12_43.jpg 1 271 48 28 28
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_14_44.jpg 1 157 43 31 24
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_16_45.jpg 2 68 93 48 40 188 37 95 129
@@ -618,8 +482,6 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_34_51.jpg 4 156 39 40 26 53 107 57 37 193 170 63 50 224 17 23 19
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_36_52.jpg 1 230 111 48 39
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_38_53.jpg 1 227 45 28 29
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_40_54.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_42_55.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_44_55.jpg 1 109 8 73 86
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_46_56.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_14_48_57.jpg 3 205 97 45 33 171 57 30 25 179 26 26 22
@@ -631,15 +493,8 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_01_04.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_03_04.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_05_05.jpg 4 144 49 30 31 187 27 25 18 4 127 73 51 6 178 86 43
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_07_06.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_09_07.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_11_08.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_13_09.jpg 2 36 85 81 77 270 39 26 25
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_15_09.jpg 1 273 32 20 25
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_17_10.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_19_12.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_21_13.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_23_14.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_25_15.jpg 3 94 80 43 33 170 35 24 33 278 16 18 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_27_16.jpg 4 163 114 51 49 121 94 53 39 263 36 37 43 249 33 22 19
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_29_18.jpg 0
@@ -654,9 +509,6 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_47_26.jpg 1 163 62 35 34
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_49_27.jpg 2 264 52 28 33 280 24 20 21
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_51_28.jpg 4 49 107 62 41 152 48 39 23 178 31 28 16 269 3 36 61
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_53_28.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_55_29.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_57_30.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_15_59_31.jpg 2 208 132 53 53 275 23 22 27
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_01_33.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_03_33.jpg 1 183 30 28 20
@@ -669,13 +521,6 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_17_39.jpg 1 209 149 56 58
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_19_41.jpg 1 209 150 49 58
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_21_41.jpg 1 269 35 23 22
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_23_42.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_25_43.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_27_44.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_29_45.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_31_46.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_33_48.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_35_49.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_37_50.jpg 2 244 44 24 23 3 137 56 59
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_39_51.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_41_52.jpg 0
@@ -688,86 +533,32 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_55_58.jpg 1 230 119 44 43
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_16_57_59.jpg 1 230 124 41 38
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_00_00.jpg 3 266 68 31 32 173 59 39 28 80 124 65 41
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_02_02.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_04_03.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_06_03.jpg 2 259 64 28 39 170 30 29 21
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_08_04.jpg 1 223 54 36 28
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_10_05.jpg 1 149 111 48 44
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_12_06.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_14_07.jpg 1 254 98 33 31
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_16_08.jpg 1 184 52 31 27
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_18_09.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_20_09.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_22_10.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_24_11.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_26_12.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_28_13.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_30_14.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_32_15.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_34_16.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_36_17.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_38_18.jpg 1 235 119 39 45
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_40_19.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_42_19.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_44_20.jpg 1 256 39 44 60
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_46_21.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_48_22.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_50_23.jpg 1 211 48 57 73
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_52_24.jpg 1 212 148 43 44
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_54_25.jpg 1 267 34 20 24
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_56_26.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_17_58_27.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_00_28.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_02_29.jpg 1 263 36 23 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_04_29.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_06_30.jpg 1 227 136 43 45
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_08_31.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_10_32.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_12_33.jpg 1 53 144 72 51
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_14_34.jpg 1 229 107 42 43
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_16_34.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_18_35.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_20_36.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_22_37.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_24_37.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_26_38.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_28_39.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_30_40.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_32_41.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_34_42.jpg 1 45 103 59 39
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_36_43.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_38_44.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_40_46.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_42_47.jpg 1 53 100 54 36
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_44_47.jpg 1 205 156 64 60
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_46_49.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_48_50.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_50_51.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_52_52.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_54_53.jpg 1 226 32 25 24
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_56_54.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_18_58_54.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_00_55.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_02_56.jpg 1 270 33 24 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_04_57.jpg 2 242 49 30 28 277 20 20 21
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_06_58.jpg 1 267 43 28 30
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_08_58.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_10_59.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_13_00.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_15_00.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_17_01.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_19_03.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_21_04.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_23_04.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_25_05.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_27_06.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_29_08.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_31_09.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_33_09.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_35_10.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_37_11.jpg 1 212 145 48 60
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_39_11.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_41_12.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_43_13.jpg 1 277 25 20 22
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_45_14.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_47_14.jpg 0
@@ -775,41 +566,17 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_51_16.jpg 1 223 121 57 63
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_53_16.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_55_18.jpg 1 229 109 38 45
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_57_18.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_19_59_19.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_01_20.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_03_21.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_05_22.jpg 1 17 130 72 51
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_07_23.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_09_23.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_11_25.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_13_25.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_15_27.jpg 1 80 50 72 62
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_17_28.jpg 1 125 93 43 42
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_19_29.jpg 1 150 14 55 52
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_21_30.jpg 1 111 65 44 37
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_23_31.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_25_32.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_27_32.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_29_34.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_31_35.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_33_36.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_35_38.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_37_39.jpg 1 159 42 30 31
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_39_40.jpg 2 141 32 46 47 41 106 53 45
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_41_40.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_43_42.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_45_43.jpg 1 14 120 57 44
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_47_44.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_49_45.jpg 2 61 61 63 65 190 38 24 28
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_51_46.jpg 3 146 48 52 57 95 71 45 41 268 41 29 30
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_53_47.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_55_49.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_57_49.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_20_59_50.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_01_52.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_03_52.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_05_53.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_07_54.jpg 1 266 56 25 32
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_09_55.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_11_56.jpg 1 46 104 58 39
@@ -818,45 +585,12 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_17_59.jpg 3 56 96 63 39 193 31 32 30 281 26 18 19
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_20_00.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_22_01.jpg 1 134 136 111 77
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_24_02.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_26_03.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_28_05.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_30_05.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_32_06.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_34_07.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_36_08.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_38_08.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_40_09.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_42_10.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_44_11.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_46_12.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_48_13.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_50_15.jpg 1 69 92 56 41
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_52_16.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_54_16.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_56_17.jpg 1 275 36 22 22
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_21_58_18.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_00_19.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_02_19.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_04_21.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_06_21.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_08_23.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_10_23.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_12_24.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_14_25.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_16_25.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_18_26.jpg 1 264 25 31 46
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_20_27.jpg 1 281 12 18 23
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_22_27.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_24_29.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_26_30.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_28_31.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_30_31.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_32_32.jpg 1 244 1 37 49
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_34_33.jpg 2 97 38 128 135 269 36 21 22
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_36_34.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_38_35.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_40_36.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_42_37.jpg 1 209 163 54 52
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_44_38.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_11_22_46_38.jpg 0
@@ -1014,9 +748,6 @@
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_12_03_52_38.jpg 6 69 115 68 60 203 65 37 26 136 132 67 77 191 126 92 91 220 18 24 16 280 20 18 19
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_12_03_54_38.jpg 4 222 60 74 101 156 41 30 28 81 73 50 39 193 19 22 25
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_12_03_56_39.jpg 4 178 66 108 149 237 9 55 57 152 38 36 25 1 100 69 92
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_12_03_58_40.jpg 0
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_12_04_00_41.jpg 7 212 30 23 25 109 19 70 68 110 81 42 45 212 164 47 45 2 119 74 65 278 22 19 18 179 23 28 25
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_12_04_02_41.jpg 5 207 84 47 48 168 50 41 37 98 110 50 48 244 7 29 33 194 16 23 19
 \[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_12_04_04_42.jpg 5 132 74 38 39 117 58 38 29 2 144 55 54 164 35 33 24 276 20 21 23
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_12_04_06_43.jpg 0
-\[AID01111]\Index0_Hong_Chong_Road_near_The_Hong_Kong_Polytechnic_University_-_Northbound_(1)_[AID01111]_2022_04_12_04_08_44.jpg 0
