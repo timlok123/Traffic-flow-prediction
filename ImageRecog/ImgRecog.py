@@ -12,7 +12,9 @@ def ImgRecog(files):
 
     p=1
     for i in files:
-        
+        fd=open(i+'.csv','w')
+        fd.write('"Datetime","count"')
+        fd.close()  
         for filename in os.listdir(i):
             fd=open(i+'.csv','a')
             img_fl = os.path.join(i,filename)
