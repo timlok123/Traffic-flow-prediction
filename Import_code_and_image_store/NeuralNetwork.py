@@ -6,6 +6,10 @@ import numpy as np
 import tensorflow as tf
 import pandas as pd
 
+mpl.rcParams['figure.figsize'] = (8, 6)
+mpl.rcParams['axes.grid'] = False
+
+
 df = pd.read_csv("Import_code_and_image_store\[AID01111].csv")
 
 date_time = pd.to_datetime(df.pop('Datetime'), format='%Y_%m_%d_%H_%M_%S')

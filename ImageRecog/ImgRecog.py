@@ -3,7 +3,7 @@ import numpy as np
 import os
 import csv
 
-files=["[AID01111]","[AID01213]","[AID03106]","[AID03211]","[TDSIEC10001]"]
+files=["[AID01213]","[AID03106]","[AID03211]","[TDSIEC10001]"]#["[AID01111]",
 def ImgRecog(files):
 
     os.chdir(r"Import_code_and_image_store")
@@ -12,8 +12,9 @@ def ImgRecog(files):
 
     p=1
     for i in files:
-        fd=open(i+'.csv','a')
+        
         for filename in os.listdir(i):
+            fd=open(i+'.csv','a')
             img_fl = os.path.join(i,filename)
             
             #img_fl="Import_code_and_image_store\\"+i+"\\"+filename
@@ -41,6 +42,7 @@ def ImgRecog(files):
 
                     cars=car_track.detectMultiScale(b_n_w)
                     fd.write("{},{}\n".format(filename[-23:-4],len(cars)))
+                    #print(filename[-23:-4],len(cars))
                     #except:
                         #print(filename)
 
@@ -48,7 +50,7 @@ def ImgRecog(files):
             except:
                 print(filename)
             last=img
-        fd.close()    
+            fd.close()    
 
 ImgRecog(files)  
 
