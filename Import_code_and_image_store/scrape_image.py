@@ -24,9 +24,10 @@ def fetch_image(Required_tags):
     temp_key = ((str(key_tags[i]).replace("<key>","")).replace("</key>",""))
     if str(temp_key) in Required_tags:
       place_url_key_list.append((temp_place,temp_url))
+  
   return place_url_key_list
 
-def scrape_image_function(place_url_key_list):
+def scrape_picture_function(place_url_key_list):
 
   # Download the image and store it somewhere
   for count, i in enumerate(place_url_key_list):
@@ -54,7 +55,7 @@ def scrape_image_function(place_url_key_list):
     except:
       print("Index_{no} images goes wrong".format(no=count))
     
-    #Return to the main_directory(loaded_img)
+    #Return to the main_directory(loaded_img)a
     os.chdir(go_back)
     
   print("Import completed")
@@ -62,6 +63,6 @@ def scrape_image_function(place_url_key_list):
 
 Required_tags = ["AID01111","AID01213"]
 list1 = fetch_image(Required_tags)
-while True:
-  scrape_image_function(list1)
-  time.sleep(120)
+print(list1)
+  #scrape_picture_function(list1)
+  #time.sleep(120)
